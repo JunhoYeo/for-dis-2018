@@ -191,7 +191,7 @@ print('FLAG{' + flag + '}')
 
 익스는 곧 추가해드릴게요 충성^^7
 
-## Problem Two (Another WEb?)
+## Problem Two (Another WEb?, Burkina Faso)
 PHP의 `get_defined_vars()`는 영역 안에 정의되는 모든 변수 목록의 리스트를 반환합니다.
 
 ![](./prob2/1.png)
@@ -201,7 +201,7 @@ PHP의 `get_defined_vars()`는 영역 안에 정의되는 모든 변수 목록�
 
 `FLAG{I_us3_k1ng_G0d_l4n9_PHP_so_$ME!=="AHSSA"?????}`
 
-## Problem Sam (YEOEY)
+## Problem Sam (YEOEY, Kyrgyzstan)
 대체 왜 이 문제 제목이 YEOEY으로 된 건지 모르겠습니다.
 
 ![](./prob3/1.png)
